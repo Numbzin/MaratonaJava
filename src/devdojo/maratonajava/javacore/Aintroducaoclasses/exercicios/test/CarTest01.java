@@ -1,6 +1,6 @@
-package devdojo.maratonajava.javacore.introducaoclasses.exercicios.test;
+package devdojo.maratonajava.javacore.Aintroducaoclasses.exercicios.test;
 
-import devdojo.maratonajava.javacore.introducaoclasses.exercicios.domain.Car;
+import devdojo.maratonajava.javacore.Aintroducaoclasses.exercicios.domain.Car;
 
 public class CarTest01 {
     public static void main(String[] args) {
@@ -10,6 +10,8 @@ public class CarTest01 {
         car1.model = "Fusca";
         car1.brand = "Volkswagen";
         car1.year = 1969;
+
+        // car1 = car2;
 
         car2.model = "Civic";
         car2.brand = "Honda";

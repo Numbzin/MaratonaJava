@@ -1,4 +1,4 @@
-package devdojo.maratonajava.javacore.introducaoclasses.exercicios.domain;
+package devdojo.maratonajava.javacore.Aintroducaoclasses.exercicios.domain;
 
 // crie uma classe carro com os seguintes atributos:
 // brand, model, year
